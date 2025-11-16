@@ -141,7 +141,7 @@ Build your CPU - single cycle থেকে pipelined
 ### 📔 Part 5: VLSI & Fabrication (6 Chapters)
 Build real chip - RTL থেকে silicon
 
-**Total: 25 Chapters + 4 Appendices = 29 Files**
+**Total: 25 Chapters Complete!**
 
 ---
 
@@ -267,7 +267,7 @@ open Chapter_01_Digital_Logic_Introduction.md
 **Learn:** How CPUs work | Von Neumann | Harvard
 **Time:** 3 days
 
-#### [📕 Chapter 13: RISC-V ISA](chapters/Chapter_13_RISCV_ISA.md)
+#### [📕 Chapter 13: RISC-V Basics](chapters/Chapter_13_RISCV_Basics.md)
 **Learn:** RISC-V instructions | Assembly programming
 **Time:** 1 week
 
@@ -275,25 +275,53 @@ open Chapter_01_Digital_Logic_Introduction.md
 **Build:** Complete working processor! 🎉
 **Time:** 3 weeks
 
-#### [📕 Chapter 15: Pipelined CPU](chapters/Chapter_15_Pipelined_CPU.md)
+#### [📕 Chapter 15: Multi-Cycle CPU](chapters/Chapter_15_Multi_Cycle_CPU.md)
+**Build:** FSM control | Resource sharing
+**Time:** 2 weeks
+
+#### [📕 Chapter 16: Pipelining](chapters/Chapter_16_Pipelining.md)
 **Build:** 5-stage pipeline | Hazard handling
 **Time:** 2 weeks
 
-#### [📕 Chapters 16-19: Complete System](chapters/)
-**Build:** Memory | Exceptions | Full CPU system
-**Time:** 4 weeks
+#### [📕 Chapter 17: Hazards & Forwarding](chapters/Chapter_17_Hazards_Forwarding.md)
+**Build:** Data hazards | Control hazards
+**Time:** 2 weeks
+
+#### [📕 Chapter 18: Memory Hierarchy](chapters/Chapter_18_Memory_Hierarchy.md)
+**Build:** Cache design | Memory optimization
+**Time:** 2 weeks
+
+#### [📕 Chapter 19: Complete System](chapters/Chapter_19_Complete_System.md)
+**Build:** UART | GPIO | Timer | Full SoC
+**Time:** 2 weeks
 
 ---
 
 ### Your Own Chip (নিজের চিপ)
 
-#### [📔 Chapters 20-23: VLSI Design](chapters/)
-**Build:** RTL to GDSII | Physical design | Optimization
-**Time:** 4 weeks
+#### [📔 Chapter 20: Advanced Topics](chapters/Chapter_20_Advanced_Topics.md)
+**Learn:** Superscalar | Out-of-order | GPU | Future
+**Time:** 1 week
 
-#### [📔 Chapters 24-25: Fabrication](chapters/)
-**Build:** Submit to fab | Get real chip!
-**Time:** 6-12 months (fabrication time)
+#### [📔 Chapter 21: VLSI Design Flow](chapters/Chapter_21_VLSI_Design_Flow.md)
+**Learn:** RTL to GDSII | Synthesis | Placement | Routing
+**Time:** 2 weeks
+
+#### [📔 Chapter 22: OpenLane Physical Design](chapters/Chapter_22_OpenLane_Physical_Design.md)
+**Build:** Hands-on OpenLane | Your processor layout
+**Time:** 2 weeks
+
+#### [📔 Chapter 23: Sky130 PDK](chapters/Chapter_23_Sky130_PDK.md)
+**Learn:** Google's open PDK | 130nm technology
+**Time:** 1 week
+
+#### [📔 Chapter 24: TinyTapeout](chapters/Chapter_24_TinyTapeout.md)
+**Do:** Submit your design | Real fabrication!
+**Time:** 1 week | **Cost:** $100-300
+
+#### [📔 Chapter 25: Chip Fabrication & Testing](chapters/Chapter_25_Chip_Fabrication_Testing.md)
+**Do:** Receive chip | Test | Celebrate! 🎉
+**Time:** 6-12 months (fabrication) + 2 weeks testing
 
 ---
 
@@ -399,11 +427,11 @@ Track your progress:
 ## 📊 বই Statistics
 
 ```
-📚 Total Chapters:     25
-📑 Total Appendices:   4
-📄 Total Files:        29+
-📖 Total Pages:        1,200-1,500 (formatted)
-📝 Total Words:        300,000-400,000
+📚 Total Chapters:     25 ✅
+📄 Total Files:        25+ chapters
+📖 Total Pages:        ~1,600 (formatted)
+📝 Total Size:         ~520 KB
+💻 Total Code:         5,000+ lines Verilog
 ⏱️ Reading Time:       200-300 hours
 🛠️ Building Time:      500-1000 hours
 🎯 Success Rate:       95% (complete করলে)
