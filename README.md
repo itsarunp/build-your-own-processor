@@ -156,7 +156,7 @@ Build real chip - RTL থেকে silicon
 
 ---
 
-## 🛠️ What You'll Need
+## 🛠️ কী কী লাগবে
 
 ### Software (সব ফ্রি!):
 ```
@@ -175,7 +175,7 @@ Build real chip - RTL থেকে silicon
 ✅ Breadboard + Wires     - ~৫০০ টাকা (optional)
 ```
 
-### Your Time:
+### তোমার সময়:
 ```
 ✅ Beginner Path:   3-4 hours/day × 6 months
 ✅ Fast Track:      5-6 hours/day × 3 months
@@ -392,7 +392,7 @@ Week 9-12: Chapters 20-25 (VLSI)
 
 ## 🏆 Milestones & Badges
 
-Track your progress:
+তোমার অগ্রগতি ট্র্যাক করো:
 
 ```
 □ 🥉 Digital Logic Master     - Complete Chapters 1-4
