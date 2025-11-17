@@ -6,11 +6,6 @@
 **"Want to understand how computers really work? Build one yourself!"**
 
 **"কম্পিউটার আসলে কিভাবে কাজ করে জানতে চাও? নিজেই একটা বানাও!"**
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Language: Bengali](https://img.shields.io/badge/Language-বাংলা-green.svg)](https://github.com/yourusername/build-your-own-processor)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
 </div>
 
 ---
