@@ -242,7 +242,7 @@ Build real chip - RTL থেকে silicon
 
 ---
 
-### Build Your Processor (তোমার CPU)
+### Build Your Processor (তোমার প্রসেসর বানাও)
 
 #### [📕 Chapter 12: Computer Architecture](chapters/Chapter_12_Computer_Architecture.md)
 **Learn:** How CPUs work | Von Neumann | Harvard
