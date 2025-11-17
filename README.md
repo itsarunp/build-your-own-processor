@@ -177,9 +177,9 @@ Build real chip - RTL থেকে silicon
 
 ### তোমার সময়:
 ```
-✅ Beginner Path:   3-4 hours/day × 6 months
-✅ Fast Track:      5-6 hours/day × 3 months
-✅ Weekend Warrior: 10-12 hours/week × 9 months
+✅ Beginner Path:   ৩-৪ ঘণ্টা/দিন × ৬ মাস
+✅ Fast Track:      ৫-৬ ঘণ্টা/দিন × ৩ মাস
+✅ Weekend Warrior: ১০-১২ ঘণ্টা/সপ্তাহ × ৯ মাস
 ```
 
 ---
