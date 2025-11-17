@@ -142,31 +142,17 @@ Build real chip - RTL থেকে silicon
 
 ## 🚀 Quick Start - আজই শুরু করো!
 
-### ⚡ 5 Minutes Setup:
+### ⚡ Start NOW (5 Minutes - কোনো Installation লাগবে না!):
 
-```bash
-# Step 1: Clone this repo
-git clone https://github.com/yourusername/build-your-own-processor.git
-cd build-your-own-processor
+1. **📖 Read:** [Chapter 1: Digital Logic](chapters/Chapter_01_Digital_Logic_Introduction.md)
+2. **🔧 Build:** তোমার প্রথম circuit → [CircuitVerse.org](https://circuitverse.org) (browser-based!)
+3. **📅 Plan:** সম্পূর্ণ Week 1 roadmap → [QUICK_START.md](QUICK_START.md)
 
-# Step 2: Start reading
-open Chapter_01_Digital_Logic_Introduction.md
+> **এই মুহূর্তে শুরু করতে পারো!** No downloads, no setup needed. শুধু browser খোলো এবং শেখা শুরু করো! 🎉
 
-# Step 3: Build your first circuit
-# Visit: https://circuitverse.org
-```
+### 📚 বিস্তারিত পরিকল্পনা:
 
-### 📅 Week 1 Plan:
-
-| Day | Task | Time |
-|-----|------|------|
-| Mon | Read Chapter 1 | 3h |
-| Tue | Build gates in CircuitVerse | 3h |
-| Wed | Read Chapter 2 | 3h |
-| Thu | Practice number conversions | 2h |
-| Fri | Build adder circuit | 3h |
-| Sat | Complete exercises | 4h |
-| Sun | Review & plan Week 2 | 2h |
+**দেখো:** [QUICK_START.md](QUICK_START.md) এ সম্পূর্ণ Week 1 schedule, software installation guide, এবং step-by-step roadmap পাবে।
 
 ---
 
