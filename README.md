@@ -186,7 +186,7 @@ Build real chip - RTL থেকে silicon
 
 ## 📚 Complete Chapter List
 
-### Foundation (শুরুর ভিত্তি)
+### Foundation (বেসিক)
 
 #### [📘 Chapter 1: Digital Logic পরিচিতি](chapters/Chapter_01_Digital_Logic_Introduction.md)
 **Build:** AND, OR, NOT gates | Truth tables | Basic circuits
