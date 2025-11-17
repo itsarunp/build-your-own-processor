@@ -168,7 +168,7 @@ Build real chip - RTL থেকে silicon
 ✅ OpenLane         - VLSI design
 ```
 
-### Hardware (Optional but Recommended):
+### Hardware (দরকার নেই, তবে থাকলে ভালো):
 ```
 ✅ Tang Nano 9K FPGA      - ~২,০০০ টাকা
 ✅ USB-C Cable            - ~২০০ টাকা
