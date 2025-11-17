@@ -80,7 +80,7 @@ Month 12:   ✅ তোমার হাতে আসল Chip! 🎉
 - Testbenches এবং simulations
 - Complex digital systems
 
-**Tool:** Icarus Verilog + GTKWave (free!)
+**Tool:** Icarus Verilog + GTKWave (free!), কম্পিউটার না থাকলে অ্যান্ড্রয়েড ফোনে [SmartIDE](https://play.google.com/store/apps/details?id=org.smartide.code) তেও করতে পারবে।
 
 ---
 
