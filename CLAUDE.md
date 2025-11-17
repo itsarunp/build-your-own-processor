@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is **"Build Your Own Processor"** (আপনার নিজের প্রসেসর বানান) - a comprehensive Bengali-language educational book that teaches processor design from digital logic fundamentals to actual silicon chip fabrication. The book guides learners through building a complete RISC-V processor using Verilog HDL, deploying it on FPGA hardware, and ultimately submitting it for real chip fabrication via TinyTapeout/Efabless.
+This is **"Build Your Own Processor"** (তোমার নিজের প্রসেসর বানাও) - a comprehensive Bengali-language educational book that teaches processor design from digital logic fundamentals to actual silicon chip fabrication. The book guides learners through building a complete RISC-V processor using Verilog HDL, deploying it on FPGA hardware, and ultimately submitting it for real chip fabrication via TinyTapeout/Efabless.
 
 **Language:** Primary content is in Bengali (বাংলা) with English technical terms
 **Format:** Markdown documentation with embedded Verilog code examples
