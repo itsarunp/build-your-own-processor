@@ -500,15 +500,6 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ---
 
-## 📞 Contact
-
-**Project Maintainer:** [Your Name]  
-**Email:** processor.bangla@gmail.com  
-**Website:** https://buildyourownprocessor.com  
-**GitHub:** https://github.com/yourusername/build-your-own-processor
-
----
-
 <div align="center">
 
 ### 🎉 তোমার Processor Building Journey শুরু হোক আজ থেকেই!
