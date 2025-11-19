@@ -171,6 +171,10 @@ Clock → TFF0 → TFF1 → TFF2 → TFF3
         LED0   LED1   LED2   LED3
 ```
 
+**তোমার binary counter circuit এরকম দেখতে হবে:**
+
+![Binary Counter Circuit](../images/chapter_01/binary_counter_circuit.png)
+
 **What You'll See:**
 ```
 Count | LED3 LED2 LED1 LED0 | Decimal
