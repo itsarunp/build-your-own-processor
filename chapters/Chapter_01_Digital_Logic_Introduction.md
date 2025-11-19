@@ -256,9 +256,9 @@ Circuit Symbol:
     B ──┘
 ```
 
-**Where in CPU?**
+**CPU তে কোথায় ব্যবহার হয়?**
 ```
-AND gates used in:
+তোমার processor এ AND gate:
 ✓ Address decoding
 ✓ Enable signals
 ✓ Condition checking
