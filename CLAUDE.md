@@ -43,12 +43,6 @@ This is **"Build Your Own Processor"** (তোমার নিজের প্�
 - TinyTapeout submission process
 - Real chip fabrication and testing
 
-### Appendices
-- Development tools setup (Linux/Ubuntu, Icarus Verilog, GTKWave)
-- RISC-V instruction reference
-- Verilog quick reference
-- Resources and further learning
-
 ## Key Design Patterns
 
 ### Verilog Code Organization
@@ -102,7 +96,6 @@ gtkwave waveform.vcd
 
 ### File Naming
 - Chapters: `Chapter_XX_Topic_Name.md` (numbered 01-25)
-- Appendices: `Appendix_X_Topic_Name.md`
 - Verilog files referenced: lowercase with underscores (e.g., `and_gate.v`, `single_cycle_cpu.v`)
 
 ### Content Style
