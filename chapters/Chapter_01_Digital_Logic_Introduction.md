@@ -57,6 +57,14 @@ A=ON,  B=ON  → LED ON! ✓✓✓
 
 ![AND Gate Circuit in CircuitVerse](../images/chapter_01/and_gate_circuit.png)
 
+**ভিডিও দেখো - কিভাবে বানাবে:**
+
+<video src="../videos/chapter_01/and_gate_demo.webm" controls width="100%">
+  Your browser does not support the video tag. <a href="../videos/chapter_01/and_gate_demo.webm">Download the video</a>
+</video>
+
+> 💡 **Tip:** ভিডিওতে দেখো কিভাবে step-by-step circuit বানাতে হয়, কিভাবে wire connect করতে হয়, এবং কিভাবে test করতে হয়!
+
 এখন পড়তে থাকো - তুমি ইতিমধ্যে একজন circuit builder! 💪
 
 ---
