@@ -59,9 +59,7 @@ A=ON,  B=ON  → LED ON! ✓✓✓
 
 **ভিডিও দেখো - কিভাবে বানাবে:**
 
-<video src="../videos/chapter_01/and_gate_demo.webm" controls width="100%">
-  Your browser does not support the video tag. <a href="../videos/chapter_01/and_gate_demo.webm">Download the video</a>
-</video>
+[AND Gate Demo Video - Download করে দেখো](../videos/chapter_01/and_gate_demo.webm)
 
 > 💡 **Tip:** ভিডিওতে দেখো কিভাবে step-by-step circuit বানাতে হয়, কিভাবে wire connect করতে হয়, এবং কিভাবে test করতে হয়!
 
