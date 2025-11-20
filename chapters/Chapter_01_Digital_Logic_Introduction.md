@@ -561,18 +561,44 @@ Solution: Full Adder (3 inputs!)
 
 ### Build Full Adder:
 
+**Inputs & Outputs:**
+```
+3 Inputs:
+- A, B: দুইটা bit যা add করবে
+- Cin (Carry In): আগের bit থেকে আসা carry
+
+2 Outputs:
+- Sum: যোগফল
+- Cout (Carry Out): পরের bit এ যাবে carry
+```
+
 **Method 1: Using 2 Half Adders**
 ```
-    A ──┐
-        ├[HA1]──Sum1 ──┐
-    B ──┘       Carry1─┤
-                       │
-                       ├[HA2]──Sum (final)
-    Cin ───────────────┘  Carry2─┐
-                                   │
-    Cout ←──────[OR]───────────────┘
-                ↑
-            Carry1
+Logic Flow:
+1. HA1 adds A + B → Sum1, Carry1
+2. HA2 adds Sum1 + Cin → Sum, Carry2
+3. OR gate combines Carry1 + Carry2 → Cout
+
+Circuit Diagram:
+                    ┌─────────────┐
+         A ────────→│             │────→ Sum1
+                    │ Half Adder  │
+         B ────────→│      1      │
+                    │             │────→ Carry1
+                    └─────────────┘
+
+                    ┌─────────────┐
+      Sum1 ────────→│             │────→ Sum (output)
+                    │ Half Adder  │
+       Cin ────────→│      2      │
+                    │             │────→ Carry2
+                    └─────────────┘
+
+                    ┌─────────────┐
+   Carry1 ─────────→│             │
+                    │   OR Gate   │────→ Cout (output)
+   Carry2 ─────────→│             │
+                    └─────────────┘
 
 Build this! It's genius!
 ```
